@@ -1,3 +1,4 @@
+New line was added.
 My second file on Github
 Second file was loaded...My second file on Github
 Second file was loaded...My second file on Github
